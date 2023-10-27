@@ -1,0 +1,6 @@
+1 , harsha , class 10 , section C
+2 , sree , class 9 , section A
+3 , vamshi , class 10 , section A
+4 , navya , class 8 , section B
+5 , bhavani , class 8 , section A
+6 , divya , class 5 , section B
